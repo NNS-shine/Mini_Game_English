@@ -1,0 +1,17 @@
+Pencil
+Eraser
+Chair
+Dictionary
+Map
+Ruler
+Pen
+Bag
+Book
+Blackboard
+
+
+
+
+
+
+
